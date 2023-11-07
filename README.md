@@ -1,4 +1,11 @@
-# smpa_rsession6_mapping
+# smpa_r_mapping_and_web
+
+Mapping packages:
+
+TMAP - https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html
+
+Mapview - https://r-spatial.github.io/mapview/
+
 
 For Web publishing discussions...
 
