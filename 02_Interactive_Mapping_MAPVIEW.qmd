@@ -36,9 +36,7 @@ Let's quickly review how we use it.
 
 ```{r}
 
-# uncomment to run, then recomment it out so you don't run it every time
-
-# census_api_key("APIKEYCODE", install=TRUE)
+census_api_key("APIKEYCODE", overwrite=TRUE)
 
 
 ```
